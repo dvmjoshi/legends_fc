@@ -10,6 +10,26 @@ So,I use a pageview and transform widget with help of NotificationListener .
 Image inside a stack  change  within seconds which i felt user can interact with one page and reveal
 them more information in one page with help of animation controller & animation.
 
+<br>
+<img src=" https://user-images.githubusercontent.com/24698014/55963402-63beb780-5c90-11e9-85bf-b5dd35f24b4b.gif " width="280" height="550">
+<img src=" https://user-images.githubusercontent.com/24698014/55961800-44725b00-5c8d-11e9-8724-a65428a14eba.png " width="280" height="550">
+<img src=" https://user-images.githubusercontent.com/24698014/55961811-49cfa580-5c8d-11e9-9790-10aa8c47b985.png " width="280" height="550">
+<img src=" https://user-images.githubusercontent.com/24698014/55961832-53f1a400-5c8d-11e9-89ba-954a6d68e228.png " width="280" height="550">
+<br>
+<br>
+Happy learning. :+1:
+If you found this project useful, then please consider giving it a :star: on Github and sharing it with your friends via social media.
+### Show some :heart: and star the repo to support the project
+if you like my work support me 
+## Project Created & Maintained By
+
+### divyam joshi
+# Donate
+
+> If you found this project helpful or you learned something from the source code and want to appreciate
+>
+> - [PayPal](https://paypal.me/divyamjoshi)
+<br>
 
 
 A few resources to get you started if this is your first Flutter project:

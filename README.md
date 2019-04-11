@@ -10,7 +10,7 @@ So,I use a pageview and transform widget with help of NotificationListener .
 Image inside a stack  change  within seconds which i felt user can interact with one page and reveal
 them more information in one page with help of animation controller & animation.
 <br>
-<img src="https://user-images.githubusercontent.com/24698014/50448736-e1acbc00-0948-11e9-9029-c1a80bd05a15.gif" width="280" height="550">
+<img src="https://user-images.githubusercontent.com/24698014/55963837-2ad31280-5c91-11e9-82a2-83965362aa6e.gif" width="280" height="550">
 <img src="https://user-images.githubusercontent.com/24698014/55963798-1f7fe700-5c91-11e9-8303-2acd9b8afa48.png" width="280" height="550">
 <img src="https://user-images.githubusercontent.com/24698014/55963820-2575c800-5c91-11e9-8cae-6d15ee2a0df5.png" width="280" height="550">
 <img src="https://user-images.githubusercontent.com/24698014/55963832-2870b880-5c91-11e9-8b07-aaaf7668f7ee.png" width="280" height="550">

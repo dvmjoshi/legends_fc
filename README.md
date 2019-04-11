@@ -9,12 +9,11 @@ scrolling horizontal user feel its opening a door or it can fell transformation 
 So,I use a pageview and transform widget with help of NotificationListener .
 Image inside a stack  change  within seconds which i felt user can interact with one page and reveal
 them more information in one page with help of animation controller & animation.
-
 <br>
-<img src=" https://user-images.githubusercontent.com/24698014/55963402-63beb780-5c90-11e9-85bf-b5dd35f24b4b.gif " width="280" height="550">
-<img src=" https://user-images.githubusercontent.com/24698014/55961800-44725b00-5c8d-11e9-8724-a65428a14eba.png " width="280" height="550">
-<img src=" https://user-images.githubusercontent.com/24698014/55961811-49cfa580-5c8d-11e9-9790-10aa8c47b985.png " width="280" height="550">
-<img src=" https://user-images.githubusercontent.com/24698014/55961832-53f1a400-5c8d-11e9-89ba-954a6d68e228.png " width="280" height="550">
+<img src="https://user-images.githubusercontent.com/24698014/50448736-e1acbc00-0948-11e9-9029-c1a80bd05a15.gif" width="280" height="550">
+<img src="https://user-images.githubusercontent.com/24698014/55963798-1f7fe700-5c91-11e9-8303-2acd9b8afa48.png" width="280" height="550">
+<img src="https://user-images.githubusercontent.com/24698014/55963820-2575c800-5c91-11e9-8cae-6d15ee2a0df5.png" width="280" height="550">
+<img src="https://user-images.githubusercontent.com/24698014/55963832-2870b880-5c91-11e9-8b07-aaaf7668f7ee.png" width="280" height="550">
 <br>
 <br>
 Happy learning. :+1:
